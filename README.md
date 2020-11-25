@@ -39,3 +39,9 @@ my.results[!is.na(adjusted.predict), plot(norm1, norm2, col = COL,
 ```
 ![](images/alien_wheat_sep_scatterplot.png)
 
+
+## If you use this pipeline, please cite a paper:
+Gao L, Koo D-H, Juliana P, et al (2020) The Aegilops ventricosa 2NvS segment in bread wheat: cytology, genomics and breeding. Theoretical and Applied Genetics https://doi.org/10.1007/s00122-020-03712-y
+
+
+
